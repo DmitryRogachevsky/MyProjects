@@ -14,4 +14,4 @@ function getCornersCount(string...$shapeName){
 	}
 }
 
-getCornersCount('square', 'circle', 'triangle');
+getCornersCount();
